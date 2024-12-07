@@ -1,7 +1,8 @@
 # SpringBootExtraerJsonGrandeProgramable
 
 ## Descripción
-En este proyecto se consume un JSON grande. Está programado para verificar 3 veces si se cargó el JSON y también un control de cargar el JSON solo una vez al día.
+- En este proyecto se consume un JSON grande. La aplicación carga una base de datos creada especificamente para este JSON.
+- EL programa realiza 3 veces una verificación si se cargó el JSON y también un control de cargar el JSON solo una vez al día.
 
 ## Servicios
 
